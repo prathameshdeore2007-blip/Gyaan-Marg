@@ -1,8 +1,14 @@
-# GYAAN MARG
+# GYAAN MARG - ज्ञान मार्ग
 
-**An evidence-based skill model and an AI learning agent, joined in a closed loop that guides a student from where they are to the career they want.**
+### Your Skills. Your Gaps. Your Path Forward.
 
-> *Gyaan Marg* (ज्ञान मार्ग) means "path of knowledge". The project builds that path from a student's measured current skills, not from their self-description.
+**Built by Team Expedition Zero**
+
+> An evidence-based SkillGraph and adaptive AI learning agent working in a continuous closed loop that guides students from where they are to where they want to be.
+
+_Gyaan Marg (ज्ञान मार्ग)_ means **"path of knowledge."**
+
+Gyaan Marg builds that path from a student's demonstrated skills and learning evidence — not merely from their self-description.
 
 ---
 
