@@ -2,7 +2,9 @@
 
 ### Your Skills. Your Gaps. Your Path Forward.
 
-**Built by Team Expedition Zero**
+**Team Expedition Zero**
+
+**Team Members:** - Prathamesh Deore, Yash Tajane, Aniket Nandeshwar
 
 > An evidence-based SkillGraph and adaptive AI learning agent working in a continuous closed loop that guides students from where they are to where they want to be.
 
