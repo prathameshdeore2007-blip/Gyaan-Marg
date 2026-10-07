@@ -1,12 +1,6 @@
 # GYAAN MARG (ज्ञान मार्ग)
 ### *AI-Powered Career Intelligence & Closed-Loop Personal Learning System*
 
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Stack](https://img.shields.io/badge/Stack-Next.js_|_FastAPI_|_PostgreSQL_|_pgvector-emerald.svg)]()
-[![AI Stack](https://img.shields.io/badge/AI_Engine-100%25_Open--Source_/_Open--Weight-orange.svg)]()
-[![Architecture](https://img.shields.io/badge/Architecture-Closed--Loop_Multi--Agent-purple.svg)]()
-[![Hackathon Phase](https://img.shields.io/badge/Submission-Qualifier_Technical_Proposal-red.svg)]()
-
 ---
 
 > ### **Core System Positioning**
