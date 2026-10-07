@@ -1060,4 +1060,4 @@ Open-weight AI is used inside this system for extraction, semantic matching, tut
 
 ---
 
-*GYAAN MARG: Hacktober Fest Open Source AI Hackathon by Elevate, Qualifier Round.*
+*GYAAN MARG: Team Expedition Zero*
