@@ -173,9 +173,6 @@ Faculty, training and placement cells, mentors and institutions who want cohort-
 
 ## 7. Open-Source AI Technology Selected
 
-> [!IMPORTANT]
-> **Terminology.** "Open-source" and "open-weight" are not the same. In this proposal, *open-weight* means the trained model weights are publicly downloadable under a stated license, even if training data and code are not fully released. We name the license of each component and flag when it is open-weight only. All licenses should be re-verified against the upstream repository at implementation time.
-
 The model selections below are **proposed implementation choices**. Final choices will be validated against GYAAN MARG's own tasks in the final round (see selection criteria in Section 8). We do not cite benchmark numbers.
 
 | Role | Proposed component | Type | License (to verify at build time) |
@@ -784,7 +781,6 @@ Each technology is included for a reason. We avoided adding tools without a clea
 | **Integrations** | GitHub REST API; optional coding-platform evidence; learning resource metadata | Evidence from real work |
 | **Containerization** | Docker + Docker Compose (final round) | Reproducible local and demo environment |
 
-**Deliberately not included:** a separate vector database, message brokers and microservice meshes. For the hackathon scope, PostgreSQL with pgvector and a modular monolith are simpler and sufficient.
 
 ---
 
@@ -1041,9 +1037,6 @@ GYAAN MARG handles resumes, repository metadata and learning history. These are 
 | **GitHub data handling** | Only repository metadata and public or user-authorized content needed for evidence is read; private content is not accessed without explicit consent |
 | **Local inference** | Prompts containing student data are processed by self-hosted models rather than sent to third-party AI APIs |
 | **User control** | Students can view the evidence behind their SkillGraph, correct it, and request deletion of their data |
-
-> [!NOTE]
-> This section describes design intentions for the final implementation. We make no claims of regulatory compliance or certification.
 
 ---
 
