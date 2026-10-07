@@ -4,11 +4,6 @@
 
 > *Gyaan Marg* (ज्ञान मार्ग) means "path of knowledge". The project builds that path from a student's measured current skills, not from their self-description.
 
-**Hacktober Fest Open Source AI Hackathon by Elevate: Qualifier Round Proposal**
-
-> [!NOTE]
-> This repository intentionally contains only this `README.md`, as required by the qualifier. It is a technical proposal. The implementation will be built in the final hackathon round.
-
 ---
 
 ## Table of Contents
